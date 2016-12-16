@@ -1,0 +1,11 @@
+BasePermission
+IsAuthenticated
+DjangoModelPermissions
+DjangoObjectPermissions
+unicode_literals
+Http404
+IsAuthenticatedOrReadOnly
+DjangoModelPermissionsOrAnonReadOnly
+AllowAny
+IsAdminUser
+SAFE_METHODS

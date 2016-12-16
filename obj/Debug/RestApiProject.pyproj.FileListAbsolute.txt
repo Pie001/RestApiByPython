@@ -1,0 +1,15 @@
+C:\Project\RestApiProject\RestApiProject\bin\Microsoft.PythonTools.WebRole.dll
+C:\Project\RestApiProject\RestApiProject\obj\Debug\attach_server.py
+C:\Project\RestApiProject\RestApiProject\obj\Debug\visualstudio_py_debugger.py
+C:\Project\RestApiProject\RestApiProject\obj\Debug\visualstudio_py_repl.py
+C:\Project\RestApiProject\RestApiProject\obj\Debug\visualstudio_py_util.py
+C:\Project\RestApiProject\RestApiProject\obj\Debug\__init__.py
+C:\Project\RestApiProject\RestApiProject\obj\Debug\__main__.py
+C:\Project\RestApiProject\RestApiProject\bin\AzureSetup.cfg
+C:\Project\RestApiProject\RestApiProject\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Project\RestApiProject\RestApiProject\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Project\RestApiProject\RestApiProject\bin\wfastcgi.py
+C:\Project\RestApiProject\RestApiProject\obj\Debug\deployment-updated-pyvenv.cfg
+C:\Project\RestApiProject\RestApiProject\ptvs_virtualenv_proxy.py
+C:\Project\RestApiProject\RestApiProject\obj\Debug\web.config
+C:\Project\RestApiProject\RestApiProject\obj\Debug\web.debug.config
